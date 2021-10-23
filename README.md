@@ -10,7 +10,7 @@ When we look at the combined summary we can see the following:
 This shows us that the overall data supports the requirement for Design Specification to ensure that PSI should not exceed 100PSI as variance is 62.29. 
 
 However, when we look at each lot individually, we can see a different picture:
-<img_src = 'LotSummary.jpg' />
+<img src = 'LotSummary.jpg' />
 Here we can see that Lot 1 and Lot 2 are within requirements with variance of only 0.98 and 7.47 respectively. However, Lot 3 is out of this requirement by a significant margin. The variance shows 170.29, which does not meet the design specifications required. 
 
 ## T-Tests on Suspension Coils
