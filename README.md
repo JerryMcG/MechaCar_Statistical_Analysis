@@ -6,6 +6,7 @@ Overall, this test does a reasonable job of predicting mpg since the R-squared v
 
 ## Summary Statistics on Suspension Coils
 When we look at the combined summary we can see the following:
+
 <img src = 'TotalSummary.jpg' />
 
 This shows us that the overall data supports the requirement for Design Specification to ensure that PSI should not exceed 100PSI as variance is 62.29. 
